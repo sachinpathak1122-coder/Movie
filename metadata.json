@@ -1,0 +1,5 @@
+{
+  "name": "CineMatch AI",
+  "description": "A high-end movie discovery platform that uses AI to suggest films based on your favorite genres or similar movies you enjoy, complete with ratings and trailers.",
+  "requestFramePermissions": []
+}
